@@ -1,4 +1,4 @@
 {
-  "RUNESMITH2-NOT_ENOUGH_ELEMENTS": "I don't have\nenough [red]Elements[/red]",
-  "RUNESMITH2-FULL_RUNE_SLOTS": "I don't have\nempty [red]Rune Slot[/red]"
+  "RUNESMITH2-NOT_ENOUGH_ELEMENTS": "Je n'ai pas\nassez d'[red]Éléments[/red]",
+  "RUNESMITH2-FULL_RUNE_SLOTS": "Je n'ai pas\nd'[red]emplacement de Rune[/red] libre"
 }

@@ -1,5 +1,5 @@
 ﻿{
-  "RUNESMITH2-TO_ENHANCE": "Choose {Amount:plural:a card|[blue]{}[/blue] cards} to [gold]Enhance[/gold].",
-  "RUNESMITH2-TO_ENHANCE_AND_UPGRADE": "Choose {Amount:plural:a card|[blue]{}[/blue] cards} to [gold]Upgrade[/gold] and [gold]Enhance[/gold].",
-  "RUNESMITH2-TO_STASIS": "Choose {Amount:plural:a card|[blue]{}[/blue] cards} to [gold]Stasis[/gold]."
+  "RUNESMITH2-TO_ENHANCE": "Choisissez {Amount:plural:une carte|[blue]{}[/blue] cartes} à [gold]Renforcer[/gold].",
+  "RUNESMITH2-TO_ENHANCE_AND_UPGRADE": "Choisissez {Amount:plural:une carte|[blue]{}[/blue] cartes} à [gold]Améliorer[/gold] et [gold]Renforcer[/gold].",
+  "RUNESMITH2-TO_STASIS": "Choisissez {Amount:plural:une carte|[blue]{}[/blue] cartes} à mettre en [gold]Stase[/gold]."
 }
